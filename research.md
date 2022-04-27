@@ -6,7 +6,7 @@ permalink: /research/
 
 # Peer-reviewed papers
 
-* **Donaldson, J.** (in press). Obligatory and arbitrary anaphoric control in adjuncts. In _Proceedings of the LFG21 Conference_, 73-82. Stanford: CSLI Publications. \[[link](https://web.stanford.edu/group/cslipublications/cslipublications/LFG/LFG-2021/lfg2021-donaldson.pdf)\]
+* **Donaldson, J.** (2021). Obligatory and arbitrary anaphoric control in adjuncts. In _Proceedings of the LFG21 Conference_, 73-82. Stanford: CSLI Publications. \[[link](https://web.stanford.edu/group/cslipublications/cslipublications/LFG/LFG-2021/lfg2021-donaldson.pdf)\]
 
 # Chapters
 
