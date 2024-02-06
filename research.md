@@ -6,7 +6,7 @@ permalink: /research/
 
 # Peer-reviewed
 
-* **Donaldson, J.** (2024). Heidrun Dorgeloh and Anja Wanner, Discourse syntax: English grammar beyond the sentence. Cambridge: Cambridge University Press, 2022. Pp. xiv + 324. ISBN 9781108557542. \[[link](https://www.cambridge.org/core/journals/english-language-and-linguistics/article/heidrun-dorgeloh-and-anja-wanner-discourse-syntax-english-grammar-beyond-the-sentence-cambridge-cambridge-university-press-2022-pp-xiv-324-isbn-9781108557542/D0ED74DEC7227C6F89925A416E8F929C?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark)\]
+* **Donaldson, J.** (2024). Heidrun Dorgeloh and Anja Wanner, Discourse syntax: English grammar beyond the sentence. Cambridge: Cambridge University Press, 2022. Pp. xiv + 324. ISBN 9781108557542. _English Language & Linguistics_ (FirstView), 1-5. \[[link](https://www.cambridge.org/core/journals/english-language-and-linguistics/article/heidrun-dorgeloh-and-anja-wanner-discourse-syntax-english-grammar-beyond-the-sentence-cambridge-cambridge-university-press-2022-pp-xiv-324-isbn-9781108557542/D0ED74DEC7227C6F89925A416E8F929C?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark)\]
 * **Donaldson, J.** (2021). Obligatory and arbitrary anaphoric control in adjuncts. In _Proceedings of the LFG21 Conference_, 93-103. Stanford: CSLI Publications. \[[pdf](https://web.stanford.edu/group/cslipublications/cslipublications/LFG/LFG-2021/lfg2021-donaldson.pdf)\]
 
 # Chapters
