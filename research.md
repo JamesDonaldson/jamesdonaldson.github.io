@@ -23,7 +23,7 @@ permalink: /research/
 # Dissertations
 
 * **Donaldson, J.** (2021). _Control in Free Adjuncts: The "Dangling Modifier" in English_. University of Edinburgh PhD dissertation. \[[PDF](https://era.ed.ac.uk/handle/1842/37779)\]
-* **Donaldson, J.** (2013). _On Elliptical Why-Fragments_. University of Edinburgh MSc dissertation. \[[PDF](https://era.ed.ac.uk/handle/1842/8641)\]
+* **Donaldson, J.** (2013). _On Elliptical Why-Questions_. University of Edinburgh MSc dissertation. \[[PDF](https://era.ed.ac.uk/handle/1842/8641)\]
 
 # Other
 
