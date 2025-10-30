@@ -12,7 +12,7 @@ permalink: /research/
 # Chapters
 
 * Gisborne, N., & **Donaldson, J.** (2019). Thematic Roles and Events. In R. Truswell (Ed.), _The Oxford Handbook of Event Structure_, 237-264. Oxford: Oxford University Press. \[[link](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199685318.001.0001/oxfordhb-9780199685318-e-30)\]
-* Truswell, R., Alcorn, R., **Donaldson, J.**, & Wallenberg, J. (2017). A Parsed Linguistic Atlas of Early Middle English. In R. Alcorn, J. Kopaczyk, B. Los & B. Molineaux (Eds.), _Historical Dialectology in the Digital Age_, 19-38. Edinburgh: Edinburgh University Press. \[[link](https://edinburghuniversitypress.com/book-historical-dialectology-in-the-digital-age.html)\]
+* Truswell, R., Alcorn, R., **Donaldson, J.**, & Wallenberg, J. (2019). A Parsed Linguistic Atlas of Early Middle English. In R. Alcorn, J. Kopaczyk, B. Los & B. Molineaux (Eds.), _Historical Dialectology in the Digital Age_, 19-38. Edinburgh: Edinburgh University Press. \[[link](https://edinburghuniversitypress.com/book-historical-dialectology-in-the-digital-age.html) [preprint pdf](http://robtruswell.com/assets/pdfs/PLAEME_paper_post_review.pdf) \]
 
 # Talks
 
