@@ -8,16 +8,17 @@ permalink: /cv/
 ## Employment
 
 `2016-now` __Skills Centre Coordinator__ (PPLS Skills Centre, The University of Edinburgh)
-- *works with project members, students, staff, and other stakeholders to develop learning material*
-- *trains and mentors a team of postgraduate tutors*
-- *creates, manages, and updates online resources*
-- *oversees appointment allocation system*
+- *trains and mentors a team of 50+ postgraduate tutors to deliver writing appointments*
+- *engineers and oversees bespoke PostgreSQL database with multiple Python (pandas) data pipelines, generating actionable insights for course organisers from over 15k reports*
+- *works with project members, students, staff, and other stakeholders to develop standardised evaluation rubrics and learning material for classroom and online delivery*
 
 `2016-2018` __Corpus Linguist__  (PLAEME, The University of Edinburgh)
 - *corrected the parsing of a 172,624-word corpus of Early Middle English*
+- *used Annotald, CorpusSearch, Python & GitHub to clean/modify annotated linguistic data*
 
 `2015-2020` __Teaching Fellow__ (Centre for Open Learning, The University of Edinburgh)
 - *developed and delivered courses: Linguistics, English Grammar, History of English, Sociolinguistics, and Psychology of Language*
+- *nominated for "Best overall teacher" in 2016 and for "Innovative assessment" in 2017*
 
 `2013-2019` __Postgraduate Tutor__ (School of PPLS, The University of Edinburgh)
 - *tutored in Linguistics and English Language 1, Linguistics and English Language 2A, and Introduction to Cognitive Science*
