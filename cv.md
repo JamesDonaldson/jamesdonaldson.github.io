@@ -25,6 +25,9 @@ permalink: /cv/
 - *developed semester-long online training sessions*
 - *developed and delivered two guest lectures on syntax for LEL2A (Nov 2015)*
 
+`2007-2011` __High School Teacher__ (Prva gimnazija Maribor)
+- *developed and taught classes and courses in English as a Foreign Language and English for Academic Purposes*
+
 ## Education
 
 `2021`
