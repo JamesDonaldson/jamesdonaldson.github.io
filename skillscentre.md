@@ -40,4 +40,4 @@ Like our site, this manual also has two purposes: (1) articulating our core beli
 ---
 
 ### Coming soon: Data infrastructure
-Over the next few months (March-June 2026), I will be sharing some of our automated data infrastructure on GitHub.  We ingest data from a variety of sources with Python (pandas) to feed a central PostgreSQL database with extensible architecture.  It handles large amounts of unstructured data, tidying and sanitising it for longitudinal analysis, workload equity auditing, and the production of actionable insights for the centre and for teaching staff more broadly in our department.
+Over the next few months (March-June 2026), I will be sharing some of our automated data infrastructure on GitHub.  We ingest data from a variety of sources with Python (pandas) to feed a central PostgreSQL database with extensible architecture.  The system handles large amounts of unstructured data, tidying and sanitising it for longitudinal analysis, workload equity auditing, and the production of actionable insights for the centre and for teaching staff more broadly in our department.
