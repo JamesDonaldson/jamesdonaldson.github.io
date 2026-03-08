@@ -4,13 +4,13 @@ title: "Skills Centre"
 permalink: /skillscentre/
 ---
 
-# The PPLS Skills Centre: A Decade On
+# A Decade of Writing Advice
 
 Since 2016, I have been the coordinator of the PPLS Skills Centre, a writing centre run by the School of Philosophy, Psychology & Language Sciences at the University of Edinburgh.  We've delivered over 15,000 one-on-one writing appointments in that time.
 
 Because nearly all of our resources can be accessed only by members of the University of Edinburgh, I've decided to document what it is we do on this page.  I hope that these resources are of use to university students and staff working on academic writing, but also to anyone looking to establish their own tutor centre.  
 
-It's clear that academic writing is in a state of flux; nobody knows where we're going at this point.  That's why it seems essential to create a snapshot now.  Maybe this will help someone answer the question of how people worked on academic writing before the rise of LLMs.
+It's clear that academic writing is in a state of flux; nobody knows where we're going at this point.  That's why it seems essential to create a snapshot now (March 2026).  Maybe this will help someone answer the question of how people worked on academic writing before the rise of LLMs.
 
 ### 1. Student guidance (SharePoint Archive)
 **[PDF available](/files/pplssc_student_guidance_v1.0.pdf)**
