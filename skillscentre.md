@@ -4,7 +4,7 @@ title: "Skills Centre"
 permalink: /skillscentre/
 ---
 
-# The PPLS Skills Centre: A Decade of Academic Writing Support
+# The PPLS Skills Centre: A Decade On
 
 Since 2016, I have been the coordinator of the PPLS Skills Centre, a writing centre run by the School of Philosophy, Psychology & Language Sciences at the University of Edinburgh.  We've delivered over 15,000 one-on-one writing appointments in that time.
 
