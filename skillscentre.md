@@ -15,7 +15,7 @@ It's clear that academic writing is in a state of flux; nobody knows where we're
 ### 1. Student guidance (SharePoint Archive)
 **[PDF available](/files/pplssc_student_guidance_v1.0.pdf)**
 
-Our internal site serves two main purposes: (1) helping students book time with our PhD tutors and (2) helping academics learn how to write, study, and conduct research.   We...
+Our internal site serves two main purposes: (1) helping students book time with our PhD tutors and (2) helping academics learn how to write, study, and conduct research.   In it, I...
 * describe the purpose and structure of appointments, discuss eligibility constraints, and spell out the logistics of booking,
 * provide detailed writing guidance that frames essays not as tests but as acts of communication, giving specific, actionable guidance that is explicitly mapped to different approaches in our subject areas,
 * help students treat their studying as an operational challenge by providing them with tools to manage their time with varying granularity, learn more effectively, and prepare for exams in a principled way,
@@ -26,7 +26,7 @@ Our internal site serves two main purposes: (1) helping students book time with 
 ### 2. The tutor manual
 **[PDF available](/files/pplssc_tutor_guidance_v7.1a.pdf)**
 
-Like our site, this manual also has two purposes: (1) articulating a pedagogical manifesto about writing as an act of communication and (2) providing a detailed operations guide for managing autonomous tutors.  We...
+Like our site, this manual also has two purposes: (1) articulating our core belief that writing is an act of communication and (2) providing a detailed operations guide for autonomous tutors.  In it, I...
 * define the tutor's role as coach, outlining hard and soft guidelines for sessions with helpful prompts and questions,
 * provide detailed explanations of the centre's rules and their motivations, and
 * outline a comprehensive training pipeline that moves tutors through their careers at the centre.
