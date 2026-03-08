@@ -10,17 +10,15 @@ Since 2016, I have been the coordinator of the PPLS Skills Centre, a writing cen
 
 Because nearly all of our resources can be accessed only by members of the University of Edinburgh, I've decided to document what it is we do on this page.  I hope that these resources are of use to university students and staff working on academic writing, but also to anyone looking to establish their own tutor centre.  
 
-It's also clear that academic writing is in a state of flux; nobody knows where we're going at this point.  That's why it seems essential to create a snapshot now: how did people work on academic writing before the rise of LLMs?
-
-First, here are some redacted versions of our internal resources:
+It's clear that academic writing is in a state of flux; nobody knows where we're going at this point.  That's why it seems essential to create a snapshot now.  Maybe this will help someone answer the question of how people worked on academic writing before the rise of LLMs.
 
 ### 1. Student guidance (SharePoint Archive)
 **[PDF available](/files/pplssc_student_guidance_v1.0.pdf)**
 
-This site serves two main purposes: (1) helping students book time with our PhD tutors and (2) helping academics learn how to write, study, and conduct research.   We...
-* set out the purpose and structure of appointments, discuss eligibility constraints, and spell out the logistics of how to go about requesting time,
-* provide detailed writing guidance that frames essays not as tests but acts of communication.  We provide specific, actionable guidance that is explicitly mapped to different approaches in our subject areas,
-* help students treat their study as an operational challenge by providing them with tools to manage their time with varying granularity, learn more effectively, and prepare for exams in a principled way,
+Our internal site serves two main purposes: (1) helping students book time with our PhD tutors and (2) helping academics learn how to write, study, and conduct research.   We...
+* describe the purpose and structure of appointments, discuss eligibility constraints, and spell out the logistics of booking,
+* provide detailed writing guidance that frames essays not as tests but as acts of communication, giving specific, actionable guidance that is explicitly mapped to different approaches in our subject areas,
+* help students treat their studying as an operational challenge by providing them with tools to manage their time with varying granularity, learn more effectively, and prepare for exams in a principled way,
 * show academics how to conduct research by engaging with sources, writing literature reviews, and utilising the technical resources and training at their disposal, 
 * make classroom interactions work better by providing guidance to teaching staff on good practice while providing tips to students on how to make the most of in-class discussions, and
 * assist students in transitioning to the professional world by showing them how to articulate skills learned in their degrees to their employers.
@@ -28,7 +26,7 @@ This site serves two main purposes: (1) helping students book time with our PhD 
 ### 2. The tutor manual
 **[PDF available](/files/pplssc_tutor_guidance_v7.1a.pdf)**
 
-This manual also has two purposes: (1) articulating a pedagogical manifesto about writing as communication and (2) providing a highly detailed operations guide for managing autonomous tutors.  We...
+Like our site, this manual also has two purposes: (1) articulating a pedagogical manifesto about writing as an act of communication and (2) providing a detailed operations guide for managing autonomous tutors.  We...
 * define the tutor's role as coach, outlining hard and soft guidelines for sessions with helpful prompts and questions,
 * provide detailed explanations of the centre's rules and their motivations, and
 * outline a comprehensive training pipeline that moves tutors through their careers at the centre.
