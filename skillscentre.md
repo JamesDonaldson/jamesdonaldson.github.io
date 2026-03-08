@@ -6,7 +6,13 @@ permalink: /skillscentre/
 
 # A Decade of Writing Advice
 
-Since 2016, I have been the coordinator of the PPLS Skills Centre, a writing centre run by the School of Philosophy, Psychology & Language Sciences at the University of Edinburgh.  We've delivered over 15,000 one-on-one writing appointments in that time.
+Since 2016, I have been the coordinator of the PPLS Skills Centre, a writing centre run by the School of Philosophy, Psychology & Language Sciences at the University of Edinburgh.  We've delivered over 15,000 one-on-one writing appointments in that time.  Student response has been overwhelming positive:
+
+> "single-handedly saving my academic career"  
+> "one of the most useful things I've done since starting at the university"  
+> "genuinely a highlight of my time in Psychology"  
+> "a real credit to the school of PPLS [...] my friends studying other subjects are really jealous of this resource we have available to us"  
+> "the single most useful session in my entire experience of the MSc"
 
 Because nearly all of our resources can be accessed only by members of the University of Edinburgh, I've decided to document what it is we do on this page.  I hope that these resources are of use to university students and staff working on academic writing, but also to anyone looking to establish their own tutor centre.  
 
