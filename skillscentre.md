@@ -14,7 +14,8 @@ It's also clear that academic writing is in a state of flux; nobody knows where 
 
 First, here are some redacted versions of our internal resources:
 
-### 1. Student guidance (SharePoint Archive) (link)
+### 1. Student guidance (SharePoint Archive)
+**[PDF available](/files/pplssc_student_guidance_v1.0.pdf)**
 
 This site serves two main purposes: (1) helping students book time with our PhD tutors and (2) helping academics learn how to write, study, and conduct research.   We...
 * set out the purpose and structure of appointments, discuss eligibility constraints, and spell out the logistics of how to go about requesting time,
@@ -24,7 +25,8 @@ This site serves two main purposes: (1) helping students book time with our PhD 
 * make classroom interactions work better by providing guidance to teaching staff on good practice while providing tips to students on how to make the most of in-class discussions, and
 * assist students in transitioning to the professional world by showing them how to articulate skills learned in their degrees to their employers.
 
-### 2. The tutor manual: (link)
+### 2. The tutor manual
+**[PDF available](/files/pplssc_tutor_guidance_v7.1a.pdf)**
 
 This manual also has two purposes: (1) articulating a pedagogical manifesto about writing as communication and (2) providing a highly detailed operations guide for managing autonomous tutors.  We...
 * define the tutor's role as coach, outlining hard and soft guidelines for sessions with helpful prompts and questions,
