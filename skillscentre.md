@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Skills Centre"
+title: "PPLS Skills Centre"
 permalink: /skillscentre/
 ---
 
