@@ -6,7 +6,7 @@ permalink: /impact/
 
 ## Media
 
-***The Economist*** mentioned my PhD work as a primary academic source in this 2022 article:
+***The Economist*** used my PhD work as their key academic source for this 2022 article:
 
 [The real problem with dangling participles](https://www.economist.com/culture/2022/05/07/the-real-problem-with-dangling-participles)
 
