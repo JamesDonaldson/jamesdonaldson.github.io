@@ -23,7 +23,7 @@ It's clear that academic writing is in a state of flux; nobody knows where we're
 
 Our internal site serves two main purposes: (1) helping students book time with our PhD tutors and (2) helping academics learn how to write, study, and conduct research.   In it, I...
 * describe the purpose and structure of appointments, discuss eligibility constraints, and spell out the logistics of booking,
-* provide detailed writing guidance that frames essays not as tests but as acts of communication, giving specific, actionable guidance that is explicitly mapped to different approaches in our subject areas,
+* provide detailed writing guidance that frames essays not as tests but as acts of communication, giving specific, actionable advice that is explicitly mapped to different approaches in our subject areas,
 * help students treat their studying as an operational challenge by providing them with tools to manage their time with varying granularity, learn more effectively, and prepare for exams in a principled way,
 * show academics how to conduct research by engaging with sources, writing literature reviews, and utilising the technical resources and training at their disposal, 
 * make classroom interactions work better by providing guidance to teaching staff on good practice while providing tips to students on how to make the most of in-class discussions, and
