@@ -3,7 +3,7 @@ layout: page
 title: "CV"
 permalink: /cv/
 ---
-# James Donaldson
+
 
 ## Employment
 
