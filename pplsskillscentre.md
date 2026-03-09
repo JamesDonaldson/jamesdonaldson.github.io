@@ -29,7 +29,7 @@ Our internal site serves two main purposes: (1) helping students book time with 
 * make classroom interactions work better by providing guidance to teaching staff on good practice while providing tips to students on how to make the most of in-class discussions, and
 * assist students in transitioning to the professional world by showing them how to articulate skills learned in their degrees to their employers.
 
-### 2. The tutor manual
+### 2. Tutor manual
 **[PDF available](/files/pplssc_tutor_guidance_v7.1a.pdf)**
 
 Like our site, this manual also has two purposes: (1) articulating our core belief that writing is an act of communication and (2) providing a detailed operations guide for autonomous tutors.  In it, I...
