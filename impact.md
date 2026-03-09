@@ -7,7 +7,9 @@ order: 3
 
 ## Media
 
-***The Economist*** mentioned my PhD work as a primary academic source in the article [The real problem with dangling participles](https://www.economist.com/culture/2022/05/07/the-real-problem-with-dangling-participles). 
+***The Economist*** mentioned my PhD work as a primary academic source in this 2022 article:
+
+[The real problem with dangling participles](https://www.economist.com/culture/2022/05/07/the-real-problem-with-dangling-participles). 
 
 ## Digital Education
 
