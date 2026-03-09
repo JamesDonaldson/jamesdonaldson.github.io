@@ -29,7 +29,7 @@ permalink: /impact/
 
 [The real problem with dangling participles](https://www.economist.com/culture/2022/05/07/the-real-problem-with-dangling-participles)
 
-## Digital Education
+## Digital education
 
 I filmed, edited, and animated a series of videos aimed at presenting linguistic theory and English grammar in a clear way.  This work, which featured teaching by Prof Caroline Heycock and Prof Geoffrey K Pullum, was accomplished with the help of a series of grants from the PPLS Teaching and Learning Initiative Fund.
 
