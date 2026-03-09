@@ -1,8 +1,7 @@
 ---
 layout: page
-title: "Skills Centre"
+title: "PPLS Skills Centre"
 permalink: /skillscentre/
-order: 4
 ---
 
 # A Decade of Writing Advice
