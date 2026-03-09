@@ -45,4 +45,7 @@ __BAH in Classical Studies__ (distinction), University of Guelph
 
 `2013` College Research Studentship, The University of Edinburgh (PhD fees, living expenses, research stipend)
 
-`2013` Best PPLS Dissertation, The University of Edinburgh
+`2013` Best PPLS Dissertation Award, The University of Edinburgh
+
+`2013` Highly Commended Dissertation Award, The University of Edinburgh
+
