@@ -2,7 +2,6 @@
 layout: page
 title: "Impact"
 permalink: /impact/
-order: 3
 ---
 
 ## Media
