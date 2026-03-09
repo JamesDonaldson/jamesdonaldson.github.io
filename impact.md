@@ -7,7 +7,7 @@ order: 3
 
 ## Media
 
-My PhD dissertation was cited as the primary academic source for an article in the Economist (https://www.economist.com/culture/2022/05/07/the-real-problem-with-dangling-participles). 
+***The Economist*** mentioned my PhD work as a primary academic source in the article ([The real problem with dangling participles] (https://www.economist.com/culture/2022/05/07/the-real-problem-with-dangling-participles)). 
 
 ## Digital Education
 
