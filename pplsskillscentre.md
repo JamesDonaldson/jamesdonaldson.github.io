@@ -18,7 +18,7 @@ Because nearly all of our resources can be accessed only by members of the Unive
 
 It's clear that academic writing is in a state of flux; nobody knows where we're going at this point.  That's why it seems essential to create a snapshot now (March 2026).  Maybe years from now this will help someone answer the question of how people worked on academic writing before the rise of LLMs.
 
-### 1. Student guidance (SharePoint Archive)
+### 1. Student guidance (SharePoint archive)
 **[PDF available](/files/pplssc_student_guidance_v1.0.pdf)**
 
 Our internal site serves two main purposes: (1) helping students book time with our PhD tutors and (2) helping academics learn how to write, study, and conduct research.   In it, I...
