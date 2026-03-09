@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "PPLS Skills Centre"
-permalink: /skillscentre/
+permalink: /pplsskillscentre/
 ---
 
 # A Decade of Writing Advice
