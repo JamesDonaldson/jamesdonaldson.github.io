@@ -7,7 +7,7 @@ permalink: /cv/
 
 ## Employment
 
-`2016-now` __Skills Centre Coordinator__ (PPLS Skills Centre, The University of Edinburgh)
+`2016-now` __Skills Centre Manager__ (PPLS Skills Centre, The University of Edinburgh)
 - *trains and mentors a team of 50+ postgraduate tutors to deliver writing appointments*
 - *engineers and oversees bespoke PostgreSQL database with multiple Python (pandas) data pipelines, generating actionable insights for course organisers from over 15k reports*
 - *works with project members, students, staff, and other stakeholders to develop standardised evaluation rubrics and learning material for classroom and online delivery*
