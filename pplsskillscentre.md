@@ -30,9 +30,8 @@ Our internal site serves two main purposes: (1) helping students book time with 
 * assist students in transitioning to the professional world by showing them how to articulate skills learned in their degrees to their employers.
 
 ### 2. Tutor manual
-**[PDF available](/files/pplssc_tutor_guidance_v7.1a.pdf)**
 
-Like our site, this manual also has two purposes: (1) articulating our core belief that writing is an act of communication and (2) providing a detailed operations guide for autonomous tutors.  In it, I...
+Like our SharePoint site, the tutor manual also has two purposes: (1) articulating our core belief that writing is an act of communication and (2) providing a detailed operations guide for autonomous tutors.  In it, I...
 * define the tutor's role as coach, outlining hard and soft guidelines for sessions with helpful prompts and questions,
 * provide detailed explanations of the centre's rules and their motivations, and
 * outline a comprehensive training pipeline that moves tutors through their careers at the centre.
