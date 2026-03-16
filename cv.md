@@ -43,6 +43,8 @@ __BAH in Classical Studies__ (distinction), University of Guelph
 
 ## Awards
 
+`2018` Exceptional Contribution, College of Arts, Humanities and Social Sciences, The University of Edinburgh
+
 `2013` College Research Studentship, The University of Edinburgh (PhD fees, living expenses, research stipend)
 
 `2013` Best PPLS Dissertation Award, The University of Edinburgh
