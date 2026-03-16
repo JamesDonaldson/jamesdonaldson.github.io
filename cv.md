@@ -22,7 +22,7 @@ permalink: /cv/
 
 `2013-2019` __Postgraduate Tutor__ (School of PPLS, The University of Edinburgh)
 - *tutored in Linguistics and English Language 1, Linguistics and English Language 2A, and Introduction to Cognitive Science*
-- *developed semester-long online training sessions*
+- *developed semester-long online training sessions for Python in Jupyter Notebook*
 - *developed and delivered two guest lectures on syntax for LEL2A (Nov 2015)*
 
 `2007-2012` __Secondary School Teacher__ (First Grammar School Maribor, Slovenia)
