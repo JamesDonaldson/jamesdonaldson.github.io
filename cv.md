@@ -13,7 +13,7 @@ permalink: /cv/
 - *works with project members, students, staff, and other stakeholders to develop standardised evaluation rubrics and learning material for classroom and online delivery*
 
 `2016-2018` __Corpus Linguist__  (PLAEME, The University of Edinburgh)
-- *corrected the parsing of a 172,624-word corpus of Early Middle English with the help of a British Academy/Leverhulme Small Research Grant awarded to Dr Robert Truswell (SG150315)*
+- *corrected the parsing of a 172,624-word corpus of Early Middle English with the help of a British Academy/Leverhulme Small Research Grant awarded to Robert Truswell (SG150315)*
 - *used Annotald, CorpusSearch, Python & GitHub to clean/modify annotated linguistic data*
 
 `2015-2020` __Teaching Fellow__ (Centre for Open Learning, The University of Edinburgh)
