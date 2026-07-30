@@ -51,3 +51,12 @@ __BAH in Classical Studies__ (distinction), University of Guelph
 
 `2013` Highly Commended Dissertation Award, The University of Edinburgh
 
+## Other funding
+
+`2020` Principal's Teaching Award Scheme (UoE)
+
+`2018` Knowledge Exchange and Impact Fund (UoE)
+
+`2015` Innovative Initiative Grant (UoE)
+
+`2013`, `2014` Teaching and Learning Initiative Fund (UoE)
