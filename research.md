@@ -29,4 +29,4 @@ permalink: /research/
 
 * Truswell, R., Alcorn, R., **Donaldson, J.**, & Wallenberg, J. (2017). _A Parsed Linguistic Atlas of Early Middle English_. 172,624-word parsed corpus. \[[GitHub](https://github.com/rtruswell/PLAEME_current)\]
 
-I've also served as peer reviewer for articles and chapters with _Journal of Linguistics_, _English Language and Linguistics_, and _The Journal of Comparative Germanic Linguistics_.
+I've also served as peer reviewer for articles with _Journal of Linguistics_, _English Language and Linguistics_, and _The Journal of Comparative Germanic Linguistics_.
