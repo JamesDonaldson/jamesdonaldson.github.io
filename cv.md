@@ -7,25 +7,25 @@ permalink: /cv/
 
 ## Employment
 
-`2016-now` __Skills Centre Manager__ (PPLS Skills Centre, The University of Edinburgh)
+`2016.09-now` __Skills Centre Manager__ (PPLS Skills Centre, The University of Edinburgh)
 - *trains and mentors a team of 50+ postgraduate tutors to deliver writing appointments*
 - *engineers and oversees bespoke PostgreSQL database with multiple Python (pandas) data pipelines, generating actionable insights for course organisers from over 15k reports*
 - *works with project members, students, staff, and other stakeholders to develop standardised evaluation rubrics and learning material for classroom and online delivery*
 
-`2016-2018` __Corpus Linguist__  (PLAEME, The University of Edinburgh)
+`2016.04-2018.01` __Corpus Linguist__  (PLAEME, The University of Edinburgh)
 - *corrected the parsing of a 172,624-word corpus of Early Middle English with the help of a British Academy/Leverhulme Small Research Grant awarded to Robert Truswell (SG150315)*
 - *used Annotald, CorpusSearch, Python & GitHub to clean/modify annotated linguistic data*
 
-`2015-2020` __Teaching Fellow__ (Centre for Open Learning, The University of Edinburgh)
+`2015.09-2020.08` __Teaching Fellow__ (Centre for Open Learning, The University of Edinburgh)
 - *developed and delivered courses: Linguistics, English Grammar, History of English, Sociolinguistics, and Psychology of Language*
 - *nominated for "Best overall teacher" in 2016 and for "Innovative assessment" in 2017*
 
-`2013-2019` __Postgraduate Tutor__ (School of PPLS, The University of Edinburgh)
+`2013.09-2019.08` __Postgraduate Tutor__ (School of PPLS, The University of Edinburgh)
 - *tutored in Linguistics and English Language 1, Linguistics and English Language 2A, and Introduction to Cognitive Science*
 - *developed semester-long online training sessions for Python in Jupyter Notebook*
 - *developed and delivered two guest lectures on syntax for LEL2A (Nov 2015)*
 
-`2007-2012` __Secondary School Teacher__ (First Grammar School Maribor, Slovenia)
+`2007.09-2012.08` __Secondary School Teacher__ (First Grammar School Maribor, Slovenia)
 - *developed and taught classes and courses in English as a Foreign Language and English for Academic Purposes*
 
 ## Education
