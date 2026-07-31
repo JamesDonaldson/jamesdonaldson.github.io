@@ -53,10 +53,10 @@ __BAH in Classical Studies__ (distinction), University of Guelph
 
 ## Other funding
 
-`2020` Principal's Teaching Award Scheme (UoE)
+`2020` Principal's Teaching Award Scheme, The University of Edinburgh
 
-`2018` Knowledge Exchange and Impact Fund (UoE)
+`2018` Knowledge Exchange and Impact Fund, School of PPLS, The University of Edinburgh
 
-`2015` Innovative Initiative Grant (UoE)
+`2015` Innovative Initiative Grant, The University of Edinburgh
 
-`2013`, `2014` Teaching and Learning Initiative Fund (UoE)
+`2013`, `2014` Teaching and Learning Initiative Fund, School of PPLS, The University of Edinburgh
